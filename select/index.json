@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "上京タワー",
+  "base_artist": "Moroha",
+  "createdAt": "2026-03-25T04:10:06.209060Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "上京タワー",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_上京タワー_MOROHA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "上京タワー",
+      "artist": "Moroha",
+      "has_synced": false,
+      "path": "select/localdb_01_上京タワー_Moroha.txt",
+      "repo_name": "HhtuWbjP5T0"
+    }
+  ]
+}
